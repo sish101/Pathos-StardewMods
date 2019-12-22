@@ -18,6 +18,9 @@ namespace Pathoschild.Stardew.FastAnimations.Framework
         /// <summary>The speed multiplier for fishing.</summary>
         public int FishingSpeed { get; set; } = 1;
 
+        /// <summary>The speed multiplier for harvesting items.</summary>
+        public int HarvestSpeed { get; set; } = 1;
+
         /// <summary>The speed multiplier for milking.</summary>
         public int MilkSpeed { get; set; } = 5;
 
