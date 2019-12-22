@@ -27,6 +27,7 @@ normal speed or `2` for double speed).
   :------------------- | :------ | :------------------
   `EatAndDrinkSpeed`   | 10×     | How fast you eat and drink.
   `FishingSpeed`       | 1×      | How fast you cast and reel when fishing (doesn't affect the minigame).<br /><small>(Suggested value: 2×.)</small>
+  `HarvestSpeed`       | 1×      | How fast you harvest crops & foragables.
   `MilkSpeed`          | 5×      | How fast you use the milk pail.
   `ShearSpeed`         | 5×      | How fast you use the shears.
   `ToolSwingSpeed`     | 1×      | How fast you swing your tools (except weapons & fishing rod).<br /><small>(Suggested value: 2×.)</small>
